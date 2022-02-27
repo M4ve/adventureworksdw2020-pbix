@@ -1,7 +1,7 @@
 {
-  "name": "Postal Code",
+  "name": "ZIP",
   "dataType": "string",
-  "sourceColumn": "Postal Code",
+  "sourceColumn": "ZIP",
   "summarizeBy": "none",
   "annotations": [
     {

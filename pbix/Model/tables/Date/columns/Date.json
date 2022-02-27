@@ -2,7 +2,7 @@
   "name": "Date",
   "dataType": "dateTime",
   "sourceColumn": "Date",
-  "formatString": "dd mmmm yyyy",
+  "formatString": "Long Date",
   "summarizeBy": "none",
   "annotations": [
     {

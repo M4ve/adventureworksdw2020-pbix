@@ -1,0 +1,43 @@
+{
+  "name": "0f03e1a3788a3667b01f",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 12.644376899696049,
+        "y": 40.851063829787236,
+        "z": 0,
+        "width": 280.1215805471125,
+        "height": 280.1215805471125
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "textbox",
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Änderung für Test von PBI-VC."
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
